@@ -1,7 +1,13 @@
 import React, { Component } from 'react'
 import {
-  CardGroup, Card, CardImg, CardText, CardBody,
-  CardTitle, CardSubtitle, Button
+  CardGroup, 
+  Card, 
+  CardImg, 
+  CardText, 
+  CardBody,
+  CardTitle, 
+  CardSubtitle, 
+  Button
 } from 'reactstrap';
 
 class Routes extends Component{
