@@ -10,8 +10,8 @@ import {
 class Navigation extends Component{
   render(){
     return(
-      <div>
-        <Navbar color="light" light expand="md">
+      <div class = 'navigation'>
+        <Navbar  color="light" light expand="md">
           <NavbarBrand href="/">Kayak Kings</NavbarBrand>
             <Nav className="ml-auto" navbar>
               <NavItem>
