@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Navigation from './Components/Navigation'
 import Header from './Components/Header'
 import About from './Components/About'
-import Routes from './Components/Routes'
+import Tours from './Components/Tours'
 import Staff from './Components/Staff'
 import Book from './Components/Book'
 import Contact from './Components/Contact'
@@ -15,7 +15,7 @@ class App extends Component {
         <Navigation />
         <Header />
         <About />
-        <Routes />
+        <Tours />
         <Staff />
         <Book />
         <Contact />

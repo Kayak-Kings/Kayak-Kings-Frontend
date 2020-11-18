@@ -16,8 +16,30 @@ h1{
   text-align: center;
 }
 
-.about{
+.navigation{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#about{
   text-align: center;
   margin-left: 40px;
   margin-right: 40px;
 }
+
+/* #tours{
+
+}
+
+#team{
+
+}
+
+#book{
+
+}
+
+#contact{
+
+} */
