@@ -10,7 +10,7 @@ import {
   Button
 } from 'reactstrap';
 
-class Routes extends Component{
+class Tours extends Component{
   render(){
     return(
       <div>
@@ -48,4 +48,4 @@ class Routes extends Component{
   }
 }
 
-export default Routes
+export default Tours

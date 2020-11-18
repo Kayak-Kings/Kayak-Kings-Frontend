@@ -15,16 +15,16 @@ class Navigation extends Component{
           <NavbarBrand href="/">Kayak Kings</NavbarBrand>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink href="#">About</NavLink>
+                <NavLink href="#about">About</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="#">Team</NavLink>
+                <NavLink href="#team">Team</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="#">Book</NavLink>
+                <NavLink href="#book">Book</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="#">Contact</NavLink>
+                <NavLink href="#contact">Contact</NavLink>
               </NavItem>
             </Nav>
         </Navbar>
