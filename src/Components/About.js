@@ -4,7 +4,7 @@ class About extends Component{
   render(){
     return(
       <div id = 'about'>
-        <h1> What We Do</h1>
+        <h1 class = 'title'> What We Do</h1>
         
           <p> 
           Mauris non auctor mi, et accumsan velit. Aliquam in lacinia libero. Sed malesuada nec lectus et dapibus. Mauris vel magna et libero accumsan facilisis gravida quis sapien. Maecenas rhoncus est quis ultrices consectetur. Ut vitae ipsum at urna gravida aliquet vel eu mauris. Maecenas nec ullamcorper dui, sit amet feugiat lectus. Quisque laoreet mollis tellus, sed congue elit. Vivamus vel turpis vitae metus fermentum dignissim nec et sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec vel aliquam massa. Sed ac cursus ligula. Sed sit amet nunc tortor.
